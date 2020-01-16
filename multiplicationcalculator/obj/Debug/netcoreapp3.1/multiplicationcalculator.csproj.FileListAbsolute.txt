@@ -1,0 +1,11 @@
+C:\Karen\C#\multiplicationcalculator\bin\Debug\netcoreapp3.1\multiplicationcalculator.exe
+C:\Karen\C#\multiplicationcalculator\bin\Debug\netcoreapp3.1\multiplicationcalculator.deps.json
+C:\Karen\C#\multiplicationcalculator\bin\Debug\netcoreapp3.1\multiplicationcalculator.runtimeconfig.json
+C:\Karen\C#\multiplicationcalculator\bin\Debug\netcoreapp3.1\multiplicationcalculator.runtimeconfig.dev.json
+C:\Karen\C#\multiplicationcalculator\bin\Debug\netcoreapp3.1\multiplicationcalculator.dll
+C:\Karen\C#\multiplicationcalculator\bin\Debug\netcoreapp3.1\multiplicationcalculator.pdb
+C:\Karen\C#\multiplicationcalculator\obj\Debug\netcoreapp3.1\multiplicationcalculator.csprojAssemblyReference.cache
+C:\Karen\C#\multiplicationcalculator\obj\Debug\netcoreapp3.1\multiplicationcalculator.AssemblyInfoInputs.cache
+C:\Karen\C#\multiplicationcalculator\obj\Debug\netcoreapp3.1\multiplicationcalculator.AssemblyInfo.cs
+C:\Karen\C#\multiplicationcalculator\obj\Debug\netcoreapp3.1\multiplicationcalculator.dll
+C:\Karen\C#\multiplicationcalculator\obj\Debug\netcoreapp3.1\multiplicationcalculator.pdb
