@@ -1,0 +1,11 @@
+C:\Karen\C#\tentativas\bin\Debug\netcoreapp3.1\tentativas.exe
+C:\Karen\C#\tentativas\bin\Debug\netcoreapp3.1\tentativas.deps.json
+C:\Karen\C#\tentativas\bin\Debug\netcoreapp3.1\tentativas.runtimeconfig.json
+C:\Karen\C#\tentativas\bin\Debug\netcoreapp3.1\tentativas.runtimeconfig.dev.json
+C:\Karen\C#\tentativas\bin\Debug\netcoreapp3.1\tentativas.dll
+C:\Karen\C#\tentativas\bin\Debug\netcoreapp3.1\tentativas.pdb
+C:\Karen\C#\tentativas\obj\Debug\netcoreapp3.1\tentativas.csprojAssemblyReference.cache
+C:\Karen\C#\tentativas\obj\Debug\netcoreapp3.1\tentativas.AssemblyInfoInputs.cache
+C:\Karen\C#\tentativas\obj\Debug\netcoreapp3.1\tentativas.AssemblyInfo.cs
+C:\Karen\C#\tentativas\obj\Debug\netcoreapp3.1\tentativas.dll
+C:\Karen\C#\tentativas\obj\Debug\netcoreapp3.1\tentativas.pdb

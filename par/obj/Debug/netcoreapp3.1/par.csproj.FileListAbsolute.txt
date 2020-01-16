@@ -1,0 +1,11 @@
+C:\Karen\C#\par\bin\Debug\netcoreapp3.1\par.exe
+C:\Karen\C#\par\bin\Debug\netcoreapp3.1\par.deps.json
+C:\Karen\C#\par\bin\Debug\netcoreapp3.1\par.runtimeconfig.json
+C:\Karen\C#\par\bin\Debug\netcoreapp3.1\par.runtimeconfig.dev.json
+C:\Karen\C#\par\bin\Debug\netcoreapp3.1\par.dll
+C:\Karen\C#\par\bin\Debug\netcoreapp3.1\par.pdb
+C:\Karen\C#\par\obj\Debug\netcoreapp3.1\par.csprojAssemblyReference.cache
+C:\Karen\C#\par\obj\Debug\netcoreapp3.1\par.AssemblyInfoInputs.cache
+C:\Karen\C#\par\obj\Debug\netcoreapp3.1\par.AssemblyInfo.cs
+C:\Karen\C#\par\obj\Debug\netcoreapp3.1\par.dll
+C:\Karen\C#\par\obj\Debug\netcoreapp3.1\par.pdb
