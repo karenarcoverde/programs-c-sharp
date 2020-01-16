@@ -1,0 +1,11 @@
+C:\Karen\C#\add\bin\Debug\netcoreapp3.1\add.exe
+C:\Karen\C#\add\bin\Debug\netcoreapp3.1\add.deps.json
+C:\Karen\C#\add\bin\Debug\netcoreapp3.1\add.runtimeconfig.json
+C:\Karen\C#\add\bin\Debug\netcoreapp3.1\add.runtimeconfig.dev.json
+C:\Karen\C#\add\bin\Debug\netcoreapp3.1\add.dll
+C:\Karen\C#\add\bin\Debug\netcoreapp3.1\add.pdb
+C:\Karen\C#\add\obj\Debug\netcoreapp3.1\add.csprojAssemblyReference.cache
+C:\Karen\C#\add\obj\Debug\netcoreapp3.1\add.AssemblyInfoInputs.cache
+C:\Karen\C#\add\obj\Debug\netcoreapp3.1\add.AssemblyInfo.cs
+C:\Karen\C#\add\obj\Debug\netcoreapp3.1\add.dll
+C:\Karen\C#\add\obj\Debug\netcoreapp3.1\add.pdb

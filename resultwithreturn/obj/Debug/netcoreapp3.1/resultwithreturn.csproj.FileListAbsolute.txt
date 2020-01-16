@@ -1,0 +1,11 @@
+C:\Karen\C#\resultwithreturn\obj\Debug\netcoreapp3.1\resultwithreturn.csprojAssemblyReference.cache
+C:\Karen\C#\resultwithreturn\obj\Debug\netcoreapp3.1\resultwithreturn.AssemblyInfoInputs.cache
+C:\Karen\C#\resultwithreturn\obj\Debug\netcoreapp3.1\resultwithreturn.AssemblyInfo.cs
+C:\Karen\C#\resultwithreturn\bin\Debug\netcoreapp3.1\resultwithreturn.exe
+C:\Karen\C#\resultwithreturn\bin\Debug\netcoreapp3.1\resultwithreturn.deps.json
+C:\Karen\C#\resultwithreturn\bin\Debug\netcoreapp3.1\resultwithreturn.runtimeconfig.json
+C:\Karen\C#\resultwithreturn\bin\Debug\netcoreapp3.1\resultwithreturn.runtimeconfig.dev.json
+C:\Karen\C#\resultwithreturn\bin\Debug\netcoreapp3.1\resultwithreturn.dll
+C:\Karen\C#\resultwithreturn\bin\Debug\netcoreapp3.1\resultwithreturn.pdb
+C:\Karen\C#\resultwithreturn\obj\Debug\netcoreapp3.1\resultwithreturn.dll
+C:\Karen\C#\resultwithreturn\obj\Debug\netcoreapp3.1\resultwithreturn.pdb
