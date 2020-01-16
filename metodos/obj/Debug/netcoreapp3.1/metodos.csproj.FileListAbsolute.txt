@@ -1,0 +1,11 @@
+C:\Karen\C#\metodos\bin\Debug\netcoreapp3.1\metodos.exe
+C:\Karen\C#\metodos\bin\Debug\netcoreapp3.1\metodos.deps.json
+C:\Karen\C#\metodos\bin\Debug\netcoreapp3.1\metodos.runtimeconfig.json
+C:\Karen\C#\metodos\bin\Debug\netcoreapp3.1\metodos.runtimeconfig.dev.json
+C:\Karen\C#\metodos\bin\Debug\netcoreapp3.1\metodos.dll
+C:\Karen\C#\metodos\bin\Debug\netcoreapp3.1\metodos.pdb
+C:\Karen\C#\metodos\obj\Debug\netcoreapp3.1\metodos.csprojAssemblyReference.cache
+C:\Karen\C#\metodos\obj\Debug\netcoreapp3.1\metodos.AssemblyInfoInputs.cache
+C:\Karen\C#\metodos\obj\Debug\netcoreapp3.1\metodos.AssemblyInfo.cs
+C:\Karen\C#\metodos\obj\Debug\netcoreapp3.1\metodos.dll
+C:\Karen\C#\metodos\obj\Debug\netcoreapp3.1\metodos.pdb
