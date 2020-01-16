@@ -1,0 +1,11 @@
+C:\Karen\C#\answercorrect\bin\Debug\netcoreapp3.1\answercorrect.exe
+C:\Karen\C#\answercorrect\bin\Debug\netcoreapp3.1\answercorrect.deps.json
+C:\Karen\C#\answercorrect\bin\Debug\netcoreapp3.1\answercorrect.runtimeconfig.json
+C:\Karen\C#\answercorrect\bin\Debug\netcoreapp3.1\answercorrect.runtimeconfig.dev.json
+C:\Karen\C#\answercorrect\bin\Debug\netcoreapp3.1\answercorrect.dll
+C:\Karen\C#\answercorrect\bin\Debug\netcoreapp3.1\answercorrect.pdb
+C:\Karen\C#\answercorrect\obj\Debug\netcoreapp3.1\answercorrect.csprojAssemblyReference.cache
+C:\Karen\C#\answercorrect\obj\Debug\netcoreapp3.1\answercorrect.AssemblyInfoInputs.cache
+C:\Karen\C#\answercorrect\obj\Debug\netcoreapp3.1\answercorrect.AssemblyInfo.cs
+C:\Karen\C#\answercorrect\obj\Debug\netcoreapp3.1\answercorrect.dll
+C:\Karen\C#\answercorrect\obj\Debug\netcoreapp3.1\answercorrect.pdb
