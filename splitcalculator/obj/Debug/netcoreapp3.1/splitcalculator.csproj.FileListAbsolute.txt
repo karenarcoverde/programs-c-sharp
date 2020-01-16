@@ -1,0 +1,11 @@
+C:\Karen\C#\splitcalculator\bin\Debug\netcoreapp3.1\splitcalculator.exe
+C:\Karen\C#\splitcalculator\bin\Debug\netcoreapp3.1\splitcalculator.deps.json
+C:\Karen\C#\splitcalculator\bin\Debug\netcoreapp3.1\splitcalculator.runtimeconfig.json
+C:\Karen\C#\splitcalculator\bin\Debug\netcoreapp3.1\splitcalculator.runtimeconfig.dev.json
+C:\Karen\C#\splitcalculator\bin\Debug\netcoreapp3.1\splitcalculator.dll
+C:\Karen\C#\splitcalculator\bin\Debug\netcoreapp3.1\splitcalculator.pdb
+C:\Karen\C#\splitcalculator\obj\Debug\netcoreapp3.1\splitcalculator.csprojAssemblyReference.cache
+C:\Karen\C#\splitcalculator\obj\Debug\netcoreapp3.1\splitcalculator.AssemblyInfoInputs.cache
+C:\Karen\C#\splitcalculator\obj\Debug\netcoreapp3.1\splitcalculator.AssemblyInfo.cs
+C:\Karen\C#\splitcalculator\obj\Debug\netcoreapp3.1\splitcalculator.dll
+C:\Karen\C#\splitcalculator\obj\Debug\netcoreapp3.1\splitcalculator.pdb
