@@ -1,0 +1,11 @@
+C:\Karen\C#\age\bin\Debug\netcoreapp3.1\age.exe
+C:\Karen\C#\age\bin\Debug\netcoreapp3.1\age.deps.json
+C:\Karen\C#\age\bin\Debug\netcoreapp3.1\age.runtimeconfig.json
+C:\Karen\C#\age\bin\Debug\netcoreapp3.1\age.runtimeconfig.dev.json
+C:\Karen\C#\age\bin\Debug\netcoreapp3.1\age.dll
+C:\Karen\C#\age\bin\Debug\netcoreapp3.1\age.pdb
+C:\Karen\C#\age\obj\Debug\netcoreapp3.1\age.csprojAssemblyReference.cache
+C:\Karen\C#\age\obj\Debug\netcoreapp3.1\age.AssemblyInfoInputs.cache
+C:\Karen\C#\age\obj\Debug\netcoreapp3.1\age.AssemblyInfo.cs
+C:\Karen\C#\age\obj\Debug\netcoreapp3.1\age.dll
+C:\Karen\C#\age\obj\Debug\netcoreapp3.1\age.pdb
