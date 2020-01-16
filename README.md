@@ -2,4 +2,4 @@
 
 tutorial brackeys how to program in c#
 
-console app (.NET Core) no windows, linux e macOs.
+console app (.NET Core) on windows, linux and macOs.
