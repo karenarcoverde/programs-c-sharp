@@ -1,0 +1,11 @@
+C:\Karen\C#\FirstConsoleProject1\bin\Debug\netcoreapp3.1\FirstConsoleProject1.exe
+C:\Karen\C#\FirstConsoleProject1\bin\Debug\netcoreapp3.1\FirstConsoleProject1.deps.json
+C:\Karen\C#\FirstConsoleProject1\bin\Debug\netcoreapp3.1\FirstConsoleProject1.runtimeconfig.json
+C:\Karen\C#\FirstConsoleProject1\bin\Debug\netcoreapp3.1\FirstConsoleProject1.runtimeconfig.dev.json
+C:\Karen\C#\FirstConsoleProject1\bin\Debug\netcoreapp3.1\FirstConsoleProject1.dll
+C:\Karen\C#\FirstConsoleProject1\bin\Debug\netcoreapp3.1\FirstConsoleProject1.pdb
+C:\Karen\C#\FirstConsoleProject1\obj\Debug\netcoreapp3.1\FirstConsoleProject1.csprojAssemblyReference.cache
+C:\Karen\C#\FirstConsoleProject1\obj\Debug\netcoreapp3.1\FirstConsoleProject1.AssemblyInfoInputs.cache
+C:\Karen\C#\FirstConsoleProject1\obj\Debug\netcoreapp3.1\FirstConsoleProject1.AssemblyInfo.cs
+C:\Karen\C#\FirstConsoleProject1\obj\Debug\netcoreapp3.1\FirstConsoleProject1.dll
+C:\Karen\C#\FirstConsoleProject1\obj\Debug\netcoreapp3.1\FirstConsoleProject1.pdb

@@ -1,0 +1,3 @@
+C:\Karen\C#\FirstConsoleProject1\obj\splitcalculator\netcoreapp3.1\FirstConsoleProject1.csprojAssemblyReference.cache
+C:\Karen\C#\FirstConsoleProject1\obj\splitcalculator\netcoreapp3.1\FirstConsoleProject1.AssemblyInfoInputs.cache
+C:\Karen\C#\FirstConsoleProject1\obj\splitcalculator\netcoreapp3.1\FirstConsoleProject1.AssemblyInfo.cs
