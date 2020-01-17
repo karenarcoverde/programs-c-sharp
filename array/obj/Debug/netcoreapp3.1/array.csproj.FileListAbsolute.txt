@@ -1,0 +1,11 @@
+C:\Karen\C#\array\bin\Debug\netcoreapp3.1\array.exe
+C:\Karen\C#\array\bin\Debug\netcoreapp3.1\array.deps.json
+C:\Karen\C#\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.json
+C:\Karen\C#\array\bin\Debug\netcoreapp3.1\array.runtimeconfig.dev.json
+C:\Karen\C#\array\bin\Debug\netcoreapp3.1\array.dll
+C:\Karen\C#\array\bin\Debug\netcoreapp3.1\array.pdb
+C:\Karen\C#\array\obj\Debug\netcoreapp3.1\array.csprojAssemblyReference.cache
+C:\Karen\C#\array\obj\Debug\netcoreapp3.1\array.AssemblyInfoInputs.cache
+C:\Karen\C#\array\obj\Debug\netcoreapp3.1\array.AssemblyInfo.cs
+C:\Karen\C#\array\obj\Debug\netcoreapp3.1\array.dll
+C:\Karen\C#\array\obj\Debug\netcoreapp3.1\array.pdb
