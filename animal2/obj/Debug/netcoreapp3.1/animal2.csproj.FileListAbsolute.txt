@@ -1,0 +1,11 @@
+C:\Karen\C#\animal2\obj\Debug\netcoreapp3.1\animal2.csprojAssemblyReference.cache
+C:\Karen\C#\animal2\obj\Debug\netcoreapp3.1\animal2.AssemblyInfoInputs.cache
+C:\Karen\C#\animal2\obj\Debug\netcoreapp3.1\animal2.AssemblyInfo.cs
+C:\Karen\C#\animal2\bin\Debug\netcoreapp3.1\animal2.exe
+C:\Karen\C#\animal2\bin\Debug\netcoreapp3.1\animal2.deps.json
+C:\Karen\C#\animal2\bin\Debug\netcoreapp3.1\animal2.runtimeconfig.json
+C:\Karen\C#\animal2\bin\Debug\netcoreapp3.1\animal2.runtimeconfig.dev.json
+C:\Karen\C#\animal2\bin\Debug\netcoreapp3.1\animal2.dll
+C:\Karen\C#\animal2\bin\Debug\netcoreapp3.1\animal2.pdb
+C:\Karen\C#\animal2\obj\Debug\netcoreapp3.1\animal2.dll
+C:\Karen\C#\animal2\obj\Debug\netcoreapp3.1\animal2.pdb
