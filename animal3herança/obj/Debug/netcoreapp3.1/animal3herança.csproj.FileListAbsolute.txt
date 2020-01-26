@@ -1,0 +1,11 @@
+C:\Karen\C#\animal3herança\obj\Debug\netcoreapp3.1\animal3herança.csprojAssemblyReference.cache
+C:\Karen\C#\animal3herança\obj\Debug\netcoreapp3.1\animal3herança.AssemblyInfoInputs.cache
+C:\Karen\C#\animal3herança\obj\Debug\netcoreapp3.1\animal3herança.AssemblyInfo.cs
+C:\Karen\C#\animal3herança\bin\Debug\netcoreapp3.1\animal3herança.exe
+C:\Karen\C#\animal3herança\bin\Debug\netcoreapp3.1\animal3herança.deps.json
+C:\Karen\C#\animal3herança\bin\Debug\netcoreapp3.1\animal3herança.runtimeconfig.json
+C:\Karen\C#\animal3herança\bin\Debug\netcoreapp3.1\animal3herança.runtimeconfig.dev.json
+C:\Karen\C#\animal3herança\bin\Debug\netcoreapp3.1\animal3herança.dll
+C:\Karen\C#\animal3herança\bin\Debug\netcoreapp3.1\animal3herança.pdb
+C:\Karen\C#\animal3herança\obj\Debug\netcoreapp3.1\animal3herança.dll
+C:\Karen\C#\animal3herança\obj\Debug\netcoreapp3.1\animal3herança.pdb

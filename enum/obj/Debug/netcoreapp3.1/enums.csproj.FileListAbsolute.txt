@@ -1,0 +1,11 @@
+C:\Karen\C#\enum\bin\Debug\netcoreapp3.1\enums.exe
+C:\Karen\C#\enum\bin\Debug\netcoreapp3.1\enums.deps.json
+C:\Karen\C#\enum\bin\Debug\netcoreapp3.1\enums.runtimeconfig.json
+C:\Karen\C#\enum\bin\Debug\netcoreapp3.1\enums.runtimeconfig.dev.json
+C:\Karen\C#\enum\bin\Debug\netcoreapp3.1\enums.dll
+C:\Karen\C#\enum\bin\Debug\netcoreapp3.1\enums.pdb
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enums.csprojAssemblyReference.cache
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enums.AssemblyInfoInputs.cache
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enums.AssemblyInfo.cs
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enums.dll
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enums.pdb

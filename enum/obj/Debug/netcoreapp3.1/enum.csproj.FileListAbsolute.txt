@@ -1,0 +1,3 @@
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enum.csprojAssemblyReference.cache
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfoInputs.cache
+C:\Karen\C#\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfo.cs
