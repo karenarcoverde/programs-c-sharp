@@ -1,0 +1,11 @@
+C:\Karen\C#\date\bin\Debug\netcoreapp3.1\date.exe
+C:\Karen\C#\date\bin\Debug\netcoreapp3.1\date.deps.json
+C:\Karen\C#\date\bin\Debug\netcoreapp3.1\date.runtimeconfig.json
+C:\Karen\C#\date\bin\Debug\netcoreapp3.1\date.runtimeconfig.dev.json
+C:\Karen\C#\date\bin\Debug\netcoreapp3.1\date.dll
+C:\Karen\C#\date\bin\Debug\netcoreapp3.1\date.pdb
+C:\Karen\C#\date\obj\Debug\netcoreapp3.1\date.csprojAssemblyReference.cache
+C:\Karen\C#\date\obj\Debug\netcoreapp3.1\date.AssemblyInfoInputs.cache
+C:\Karen\C#\date\obj\Debug\netcoreapp3.1\date.AssemblyInfo.cs
+C:\Karen\C#\date\obj\Debug\netcoreapp3.1\date.dll
+C:\Karen\C#\date\obj\Debug\netcoreapp3.1\date.pdb
