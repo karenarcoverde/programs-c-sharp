@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pseudo-game-3/1.0.0": {
+        "runtime": {
+          "pseudo-game-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pseudo-game-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
