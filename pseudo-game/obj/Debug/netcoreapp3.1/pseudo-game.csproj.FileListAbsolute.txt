@@ -1,0 +1,11 @@
+C:\Karen\C#\pseudo-game\bin\Debug\netcoreapp3.1\pseudo-game.exe
+C:\Karen\C#\pseudo-game\bin\Debug\netcoreapp3.1\pseudo-game.deps.json
+C:\Karen\C#\pseudo-game\bin\Debug\netcoreapp3.1\pseudo-game.runtimeconfig.json
+C:\Karen\C#\pseudo-game\bin\Debug\netcoreapp3.1\pseudo-game.runtimeconfig.dev.json
+C:\Karen\C#\pseudo-game\bin\Debug\netcoreapp3.1\pseudo-game.dll
+C:\Karen\C#\pseudo-game\bin\Debug\netcoreapp3.1\pseudo-game.pdb
+C:\Karen\C#\pseudo-game\obj\Debug\netcoreapp3.1\pseudo-game.csprojAssemblyReference.cache
+C:\Karen\C#\pseudo-game\obj\Debug\netcoreapp3.1\pseudo-game.AssemblyInfoInputs.cache
+C:\Karen\C#\pseudo-game\obj\Debug\netcoreapp3.1\pseudo-game.AssemblyInfo.cs
+C:\Karen\C#\pseudo-game\obj\Debug\netcoreapp3.1\pseudo-game.dll
+C:\Karen\C#\pseudo-game\obj\Debug\netcoreapp3.1\pseudo-game.pdb
