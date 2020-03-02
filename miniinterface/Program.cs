@@ -129,7 +129,6 @@ namespace miniinterface
             }
 
             Console.ReadKey();
-
-;       }
+      }
     }
 }
