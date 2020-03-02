@@ -1,0 +1,11 @@
+C:\Karen\C#\miniinterface\obj\Debug\netcoreapp3.1\miniinterface.csprojAssemblyReference.cache
+C:\Karen\C#\miniinterface\obj\Debug\netcoreapp3.1\miniinterface.AssemblyInfoInputs.cache
+C:\Karen\C#\miniinterface\obj\Debug\netcoreapp3.1\miniinterface.AssemblyInfo.cs
+C:\Karen\C#\miniinterface\bin\Debug\netcoreapp3.1\miniinterface.exe
+C:\Karen\C#\miniinterface\bin\Debug\netcoreapp3.1\miniinterface.deps.json
+C:\Karen\C#\miniinterface\bin\Debug\netcoreapp3.1\miniinterface.runtimeconfig.json
+C:\Karen\C#\miniinterface\bin\Debug\netcoreapp3.1\miniinterface.runtimeconfig.dev.json
+C:\Karen\C#\miniinterface\bin\Debug\netcoreapp3.1\miniinterface.dll
+C:\Karen\C#\miniinterface\bin\Debug\netcoreapp3.1\miniinterface.pdb
+C:\Karen\C#\miniinterface\obj\Debug\netcoreapp3.1\miniinterface.dll
+C:\Karen\C#\miniinterface\obj\Debug\netcoreapp3.1\miniinterface.pdb
