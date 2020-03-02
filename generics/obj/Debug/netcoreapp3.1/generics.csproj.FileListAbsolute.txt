@@ -1,0 +1,11 @@
+C:\Karen\C#\generics\bin\Debug\netcoreapp3.1\generics.exe
+C:\Karen\C#\generics\bin\Debug\netcoreapp3.1\generics.deps.json
+C:\Karen\C#\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.json
+C:\Karen\C#\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.dev.json
+C:\Karen\C#\generics\bin\Debug\netcoreapp3.1\generics.dll
+C:\Karen\C#\generics\bin\Debug\netcoreapp3.1\generics.pdb
+C:\Karen\C#\generics\obj\Debug\netcoreapp3.1\generics.csprojAssemblyReference.cache
+C:\Karen\C#\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfoInputs.cache
+C:\Karen\C#\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfo.cs
+C:\Karen\C#\generics\obj\Debug\netcoreapp3.1\generics.dll
+C:\Karen\C#\generics\obj\Debug\netcoreapp3.1\generics.pdb
